@@ -13,7 +13,7 @@ I bring a dependable, team-focused approach to fast-paced workplaces and am cont
 
 - **Retail Sales Associate, Petco** — Upper Darby, PA | Oct 2025–Present
 - **Cashier, CVS Health** — Upper Darby, PA | Oct 2024–Sep 2025
-- **Laborer, Ashly Productions** — Springfield, PA | Sep 2022–Sep 2024
+- **Laborer, Ashley Productions** — Springfield, PA | Sep 2022–Sep 2024
 
 
 ## Featured Skills

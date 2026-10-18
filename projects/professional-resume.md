@@ -38,7 +38,7 @@ This project presents my education, work experience, skills, activities, credent
 - How consistent formatting improves readability.
 - How action verbs and job-related keywords strengthen a résumé.
 - Why a professional portfolio should match the information in a résumé.
-- How to present transferable skills from retail, restaurant, and labor experience.
+- How to present transferable skills from retail and labor experience.
 
 ## Project Artifact
 

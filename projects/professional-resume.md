@@ -1,38 +1,52 @@
+
 # Professional Resume and Career Profile Alignment
 
-## Description
+## Overview
 
-This project focused on developing a clear, professional, and applicant-tracking-system-friendly resume and creating consistent career profiles across LinkedIn and Indeed. The finished materials present my education, work experience, skills, credentials, activities, and awards in an organized format.
+This project presents my education, work experience, skills, activities, credentials, and awards in a clear, professional, and applicant-tracking-system-friendly format. The résumé and this portfolio use consistent information so employers can review an accurate professional profile.
 
-## Problem It Solves
+## Current Resume Information
 
-Employers often review a candidate across several platforms. This project creates a consistent professional identity so that my resume and online profiles communicate the same qualifications and experience.
+| Area | Details |
+| --- | --- |
+| Education | Associate Degree in Business Administration, Delaware County Community College — in progress |
+| Current role | Retail Sales Associate, Petco — Oct 2025–Present |
+| Previous role | Cashier, CVS Health — Oct 2024–Sep 2025 |
+| Previous role | Laborer, Ashly Productions — Sep 2022–Sep 2024 |
+| Previous role | Dishwasher and Busser, Morimoto — Apr 2021–Aug 2023 |
+| Activity | Cyber Knights Cybersecurity Club — Member, Fall 2026–Present |
+| Credential | McGraw Hill SIMnet Essential Skills in Microsoft PowerPoint — issued Sep 2026 |
 
-## Technologies and Tools Used
+## Key Strengths
 
-- Microsoft Word
-- PDF
-- LinkedIn
-- Indeed
-- Professional writing and proofreading
+- Customer service and retail sales
+- Cash handling and point-of-sale systems
+- Inventory management and merchandising
+- Administrative support and order processing
+- Microsoft PowerPoint
+- Teamwork, time management, and problem-solving
 
 ## Project Highlights
 
-- Wrote four concise, results-focused bullets for each job.
-- Used relevant keywords such as customer service, retail sales, cash handling, POS systems, inventory management, merchandising, and administrative support.
-- Checked spelling, grammar, formatting, and readability.
-- Aligned education, experience, skills, awards, and credentials across platforms.
-- Created both Word and PDF versions of the resume.
+- Used concise, action-focused bullet points for each position.
+- Included relevant business, retail, and administrative keywords.
+- Reviewed spelling, grammar, formatting, and readability.
+- Kept education, employment dates, skills, activities, and credentials consistent across the portfolio.
+- Produced a polished one-page PDF résumé.
 
 ## What I Learned
 
 - How consistent formatting improves readability.
-- How action verbs and job-related keywords strengthen a resume.
-- Why professional profiles should match the information in a resume.
+- How action verbs and job-related keywords strengthen a résumé.
+- Why a professional portfolio should match the information in a résumé.
 - How to present transferable skills from retail, restaurant, and labor experience.
 
 ## Project Artifact
 
-[View the finished resume](../Mark-Gardiner-Resume.pdf)
+[View the current résumé](../Mark-Gardiner-Resume.pdf)
 
 [Back to Portfolio Home](../README.md)
+
+---
+
+*Last updated: October 2026*

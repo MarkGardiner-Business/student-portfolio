@@ -1,15 +1,20 @@
 # Mark Gardiner — Business Administration Student
 
-Welcome to my ePortfolio. I am a Business Administration student at Delaware County Community College with experience in customer service, retail sales, cash handling, inventory management, merchandising, order processing, and administrative support.
+Business Administration student at Delaware County Community College with experience in customer service, retail sales, point-of-sale systems, cash handling, inventory management, merchandising, order processing, and administrative support.
 
-## Career Interests
+I bring a dependable, team-focused approach to fast-paced workplaces and am continuing to build practical business and technology skills.
 
-I am interested in opportunities where I can combine customer service, business operations, technology, and problem-solving. My goal is to keep building practical business and technical skills while contributing to a professional, team-focused organization. I am also expanding my technology knowledge as a member of the Cyber Knights Cybersecurity Club.
+## Education
 
-## Portfolio Contents
+- **Associate Degree in Business Administration** — Delaware County Community College, in progress
+- **High School Diploma** — Upper Darby High School, early graduate
 
-- [Professional Resume and Career Profile Alignment](projects/professional-resume.md)
-- [Microsoft PowerPoint Essential Skills](projects/powerpoint-essential-skills.md)
+## Experience
+
+- **Retail Sales Associate, Petco** — Upper Darby, PA | Oct 2025–Present
+- **Cashier, CVS Health** — Upper Darby, PA | Oct 2024–Sep 2025
+- **Laborer, Ashly Productions** — Springfield, PA | Sep 2022–Sep 2024
+- **Dishwasher and Busser, Morimoto** — Philadelphia, PA | Apr 2021–Aug 2023
 
 ## Featured Skills
 
@@ -20,16 +25,23 @@ I am interested in opportunities where I can combine customer service, business 
 - Microsoft PowerPoint
 - Teamwork, time management, and problem-solving
 
-## Resume and Professional Profile
+## Activities and Credentials
 
-- [Download my resume (PDF)](Mark-Gardiner-Resume.pdf)
-- [Connect with me on LinkedIn](https://www.linkedin.com/in/mark-gardiner-74229a247/)
+- **Cyber Knights Cybersecurity Club** — Member | Fall 2026–Present
+- **McGraw Hill SIMnet Essential Skills in Microsoft PowerPoint** — Issued Sep 2026
+
+## Portfolio
+
+- [Professional Resume and Career Profile Alignment](projects/professional-resume.md)
+- [Microsoft PowerPoint Essential Skills](projects/powerpoint-essential-skills.md)
+- [Download my résumé (PDF)](Mark-Gardiner-Resume.pdf)
 
 ## Contact
 
-- Email: [gardinerm307@outlook.com](mailto:gardinerm307@outlook.com)
-- Location: Upper Darby, Pennsylvania
+- [LinkedIn](https://www.linkedin.com/in/mark-gardiner-74229a247/)
+- [gardinerm307@outlook.com](mailto:gardinerm307@outlook.com)
+- Upper Darby, Pennsylvania
 
 ---
 
-This portfolio will be updated as I complete additional coursework, professional development, and personal projects.
+*Last updated: October 2026*

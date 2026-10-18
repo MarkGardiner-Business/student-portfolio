@@ -42,7 +42,7 @@ This project presents my education, work experience, skills, activities, credent
 
 ## Project Artifact
 
-[View the current résumé](../Mark-Gardiner-Resume.pdf)
+[View the current résumé](../Mark's%20Resume.pdf)
 
 [Back to Portfolio Home](../README.md)
 

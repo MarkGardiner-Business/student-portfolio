@@ -13,7 +13,6 @@ This project presents my education, work experience, skills, activities, credent
 | Current role | Retail Sales Associate, Petco — Oct 2025–Present |
 | Previous role | Cashier, CVS Health — Oct 2024–Sep 2025 |
 | Previous role | Laborer, Ashly Productions — Sep 2022–Sep 2024 |
-| Previous role | Dishwasher and Busser, Morimoto — Apr 2021–Aug 2023 |
 | Activity | Cyber Knights Cybersecurity Club — Member, Fall 2026–Present |
 | Credential | McGraw Hill SIMnet Essential Skills in Microsoft PowerPoint — issued Sep 2026 |
 

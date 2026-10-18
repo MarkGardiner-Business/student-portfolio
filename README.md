@@ -34,7 +34,7 @@ I bring a dependable, team-focused approach to fast-paced workplaces and am cont
 
 - [Professional Resume and Career Profile Alignment](projects/professional-resume.md)
 - [Microsoft PowerPoint Essential Skills](projects/powerpoint-essential-skills.md)
-- [Download my résumé (PDF)](Mark-Gardiner-Resume.pdf)
+- [Download my résumé (PDF)](Mark's%20Resume.pdf)
 
 ## Contact
 
